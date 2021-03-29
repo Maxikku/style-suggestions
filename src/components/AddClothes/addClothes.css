@@ -1,0 +1,56 @@
+header {
+    padding-top: 33px;
+    padding-left: 75px;
+    padding-bottom: 59px;
+}
+
+.headerText {
+    font-style: normal;
+    font-size: 28px;
+    line-height: 33px;
+    font-weight: bold;
+}
+
+.proposals {
+    color: #E10050;
+}
+
+.form {
+    width: 900px;
+    padding-left: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    /*background-color: silver;*/
+}
+
+.NativeSelect {
+    width: 300px;
+    background-color: #F0F0F0;
+    margin: 0 178px 0 0;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.NativeSelect option {
+    color: #646464;
+}
+
+.btns {
+    padding-left: 75px;
+    max-width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn2 {
+    color: #f50057;
+    background-color: white;
+}
+
+
+
